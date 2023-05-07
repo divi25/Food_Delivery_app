@@ -7,8 +7,8 @@ Project Features:
 
 Customer perspective
 
-    Customer can navigate to multiple pages.(Authentication is not required)
-    Customer have an option to choose food from food categories
-    Customer can Register new account and can Sign in to the application.
-    Customer can Add and Remove food from cart.(Authentication is not required).
-    Customer can order food only if he/she is signed in to the application.
+   Customer can navigate to multiple pages.(Authentication is not required)
+   Customer have an option to choose food from food categories
+   Customer can Register new account and can Sign in to the application.
+   Customer can Add and Remove food from cart.(Authentication is not required).
+   Customer can order food only if he/she is signed in to the application.
